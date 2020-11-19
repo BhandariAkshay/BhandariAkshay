@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## Akshay Bhandari here
+## Akshay Bhagirath Bhandari here
 
 <!--
 **BhandariAkshay/BhandariAkshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
