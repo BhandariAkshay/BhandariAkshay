@@ -1,13 +1,1 @@
-### Hi there 👋 
-## Akshay Bhagirath Bhandari here
-
-<!--
-**BhandariAkshay/BhandariAkshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🌱 I’m currently learning Deep Learning
-- 🤔 I’m looking for help with NLP
-- ⚡ Fun fact: A fitness lover and just love looking at FIT people
-
+![Akshay Bhandari Resume](https://user-images.githubusercontent.com/12302690/115960945-cf9bb200-a531-11eb-82e5-31e5e20c0532.jpg)
