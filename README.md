@@ -1,1 +1,1 @@
-![image](https://drive.google.com/1c0vbRas6PqyylfoGy7vh-8ytaqxKZDuw)
+![image](https://drive.google.com/uc?export=view&id=1c0vbRas6PqyylfoGy7vh-8ytaqxKZDuw)
